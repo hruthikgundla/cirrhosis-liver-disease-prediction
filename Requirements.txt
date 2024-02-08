@@ -1,0 +1,7 @@
+﻿Requirements
+* Python 3.11.5
+* NumPy version: 1.24.4
+* Pandas version: 2.1.4
+* Matplotlib version: 3.8.2
+* Seaborn version: 0.13.1
+*  SHAP version: 0.44.0
