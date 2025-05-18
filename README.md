@@ -78,9 +78,9 @@ And to finalize, It is the Random Forest and XGBoost are the two algorithms whic
 
 Feel free to reach out for feedback or collaboration!
 
-👤 Hruthik Gundla
-📧 hruthikgundla22@gmail.com
-LinkedIn: https://www.linkedin.com/in/hruthikgundla/
+👤 Hruthik Gundla <br>
+📧 hruthikgundla22@gmail.com<br>
+LinkedIn: https://www.linkedin.com/in/hruthikgundla/ <br>
 GitHub: https://github.com/hruthikgundla
 
 ⸻
