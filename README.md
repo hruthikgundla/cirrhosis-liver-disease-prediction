@@ -35,13 +35,12 @@ A data-driven project that predicts the presence of liver cirrhosis using clinic
 
 
 ## How to Run
-	1.	Clone this repository:
 
+Clone the respository:
 
-Code:
+		git clone https://github.com/hruthikgundla/liver-cirrhosis-prediction.git
+                cd liver-cirrhosis-prediction
 
-git clone https://github.com/your-username/liver-cirrhosis-prediction.git
-cd liver-cirrhosis-prediction
 
 
 2: Install Libraries:
