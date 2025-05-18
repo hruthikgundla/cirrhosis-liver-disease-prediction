@@ -68,6 +68,11 @@ Autoencoders further improved generalization and reduced prediction errors on un
 	•	Integrate with EHR systems for clinical usage
 
 ⸻
+## In our analysis it is to report that, Logistic Regression gave 98.8% accuracy, meaning it correctly predicts liver cirrhosis status in most cases, but Random Forest and XGBoost performed even better, with 100% accuracy on your current dataset. So, Logistic Regression is not necessarily better — it’s slightly less accurate than the others in this case.
+
+
+And to finalize, It is the Random Forest and XGBoost are the two algorithms which are successed in detecting the patterns of the patient's data and ensured that there are high chances of having liver Cirrhosis Disease to them.
+
 
 ## Contact
 
@@ -75,7 +80,8 @@ Feel free to reach out for feedback or collaboration!
 
 👤 Hruthik Gundla
 📧 hruthikgundla22@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/hruthikgundla/ | GitHub: https://github.com/hruthikgundla
+LinkedIn: https://www.linkedin.com/in/hruthikgundla/
+GitHub: https://github.com/hruthikgundla
 
 ⸻
 
