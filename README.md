@@ -43,14 +43,18 @@ Code:
 git clone https://github.com/your-username/liver-cirrhosis-prediction.git
 cd liver-cirrhosis-prediction
 
-	2.	Install required libraries:
 
-pip install -r requirements.txt
+2: Install Libraries:
 
-	3.	Run the notebook:
-jupyter notebook
+	pip install -r requirements.txt
 
-	4.	Open liver_cirrhosis_prediction.ipynb and run step by step.
+
+3: Run the notebook
+
+	jupyter notebook
+
+
+Open liver_cirrhosis_prediction.ipynb and run step by step.
 
 ## Results:
 
