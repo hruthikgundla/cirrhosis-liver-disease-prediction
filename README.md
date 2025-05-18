@@ -28,7 +28,9 @@ A data-driven project that predicts the presence of liver cirrhosis using clinic
 
 ⸻
 
-##📂 Project Structure:
+## Project Structure:
+
+
 <img width="782" alt="Screenshot 2025-05-18 at 11 14 11 AM" src="https://github.com/user-attachments/assets/45412106-280e-497c-8708-f8f9a373fbc2" />
 
 
